@@ -1,2 +1,2 @@
-# Master's-Project
+# Masters-thesis
 Triad of Coronary Heart Disease, Hyperlipidemia and Diabetes
